@@ -1,5 +1,9 @@
 # Lingvist Smart Language Selector
 
+<!-- badges:start -->
+[![License](https://img.shields.io/github/license/monkey-sking/lingvist?style=flat-square)](https://github.com/monkey-sking/lingvist/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/lingvist?style=flat-square)](https://github.com/monkey-sking/lingvist/commits/main) [![JavaScript](https://img.shields.io/github/languages/top/monkey-sking/lingvist?style=flat-square)](https://github.com/monkey-sking/lingvist/search?l=JavaScript) [![views](https://hits.sh/github.com/monkey-sking/lingvist.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/lingvist)
+<!-- badges:end -->
+
 [中文](README_CN.md) | **English**
 
 A Tampermonkey userscript that automatically selects your preferred language and starts learning on Lingvist platform.
